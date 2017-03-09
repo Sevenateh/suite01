@@ -29,3 +29,19 @@ addition(98766, 345678);
 
 //  écrire votre code sous ce commentaire
 
+// Test 1
+function addition (6,9) {
+return 6*9;
+}
+
+console.log(15)
+
+// Test 2
+function addition (98766,345678) {
+return 98766*345678;
+}
+
+console.log(44444)
+
+console.log(15)
+
