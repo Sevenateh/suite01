@@ -43,5 +43,3 @@ return 98766*345678;
 
 console.log(44444)
 
-console.log(15)
-
